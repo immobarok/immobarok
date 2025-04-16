@@ -11,6 +11,24 @@
 </p>
 
 ---
+## 💻 Programming Languages
+
+<div align="center">
+  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### Proficiency Levels:
+- **Expertise**: JavaScript, ES6, React, Redux, Bootstrap, mySql, MongoDb, Data visualization, Material Design.
+- **Comfortable**:  GraphQL,Typescript, Node, Express, React Native,Python
+- **Familiar**: C, JAVA,C++
 
 ## 🔧 Technologies & Tools
 
