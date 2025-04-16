@@ -35,11 +35,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/immobarokali">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=immobarokali&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=immobarokali&theme=radical&hide_border=true" />
+  <a href="https://github.com/immobarok">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=immobarok&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=immobarok&theme=radical&hide_border=true" />
   </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immobarokali&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immobarok&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -61,5 +61,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=immobarokali&label=Profile%20views&color=8A2BE2&style=flat" alt="immobarokali" /> 
+  <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=8A2BE2&style=flat" alt="immobarok" /> 
 </div>
