@@ -48,20 +48,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/immobarok">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=immobarok&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=immobarok&theme=radical&hide_border=true" />
-  </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immobarok&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
