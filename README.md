@@ -26,9 +26,9 @@
 </div>
 
 ### Proficiency Levels:
-- **Expertise**: JavaScript, ES6, React, Redux, Bootstrap, mySql, MongoDb, Data visualization, Material Design.
+- **Expertise**: JavaScript, ES6, React, Tailwind, Framermotion, Bootstrap, mySql, MongoDb.
 - **Comfortable**:  GraphQL,Typescript, Node, Express, React Native,Python
-- **Familiar**: C, JAVA,C++
+- **Familiar**: C, JAVA,C++,PHP
 
 ## 🔧 Technologies & Tools
 
