@@ -1,4 +1,4 @@
-# <div align="center"> Hello World! I'm Mobarok Ali</div>
+# <div align="center"> Hello!! I'm Mobarok Ali</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer(MERN);React+Specialist;UI/UX+Enthusiast;SQA+Engineer(postman,cypress,selenium)&center=true&width=500&height=50&duration=3000&pause=1000&color=8A2BE2&weight=600" alt="Typing SVG" />
