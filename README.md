@@ -1,36 +1,38 @@
-# <div align="center"> Hello!! I'm Mobarok Ali</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer(MERN);React+Specialist;UI/UX+Enthusiast;SQA+Engineer(postman,cypress,selenium)&center=true&width=500&height=50&duration=3000&pause=1000&color=8A2BE2&weight=600" alt="Typing SVG" />
+
+# Hi, I’m Mobarok Ali 👋
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer+(MERN);React+Specialist;UI%2FUX+Enthusiast;SQA+(Postman%2C+Cypress%2C+Selenium)&center=true&width=520&height=50&duration=3000&pause=1000&color=8A2BE2&weight=600" alt="Typing SVG" />
+
 </div>
-
-## 🚀 About Me
-
-<p align="center">
-  Passionate full-stack developer with expertise in modern JavaScript frameworks. I craft performant, accessible, and visually stunning web applications with clean code architecture.
-</p>
 
 ---
-## 💻 Programming Languages
 
-<div align="center">
-  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 👨‍💻 About Me
 
-</div>
+I’m a full-stack web developer focused on building fast, scalable, and user-friendly web applications. I enjoy working across the stack—from clean UI components to reliable backend APIs—and I care deeply about code quality, accessibility, and great user experience.
 
-### Proficiency Levels:
-- **Expertise**: JavaScript, ES6, React, Tailwind, Framermotion, Bootstrap, mySql, MongoDb.
-- **Comfortable**:  GraphQL,Typescript, Node, Express, React Native,Python
-- **Familiar**: C, JAVA,C++,PHP
+- 🔹 **Core Stack:** MERN (MongoDB, Express, React, Node.js)
+- 🔹 **Frontend Focus:** React, Next.js, TypeScript, Tailwind CSS
+- 🔹 **Quality Mindset:** API testing & automation (Postman, Cypress, Selenium)
 
-## 🔧 Technologies & Tools
+---
+
+## 🧠 Skills Summary
+
+**Strong In**
+- JavaScript (ES6+), React, Tailwind CSS, Bootstrap, Framer Motion  
+- MongoDB, MySQL, REST APIs
+
+**Comfortable With**
+- TypeScript, Node.js, Express.js, React Native, Python, GraphQL
+
+**Familiar With**
+- C, C++, Java, PHP
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -48,15 +50,18 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📫 Let's Connect
+---
+
+## 🤝 Let’s Connect
 
 <div align="center">
   <a href="mailto:immobarokali2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mobarok-ali-b9284824b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="https://www.linkedin.com/in/mobarok-ali-b9284824b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!-- Update Twitter if you want -->
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -65,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=8A2BE2&style=flat" alt="immobarok" /> 
+  <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=8A2BE2&style=flat" alt="Profile views" />
 </div>
