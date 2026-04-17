@@ -1,19 +1,34 @@
-# <div align="center">👋 Hello!! I'm Mobarok Ali</div>
+<div align="center">
+
+👋 Hi, I'm **Mobarok Ali**
+
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer(MERN);React+Specialist;UI/UX+Enthusiast;SQA+Engineer+(Postman,+Cypress)&center=true&width=500&height=50&duration=3000&pause=1000&color=8A2BE2&weight=600" alt="Typing SVG" />
+
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;React+Specialist;UI/UX+Enthusiast;SQA+Engineer&center=true&width=500&height=50&duration=3000&pause=1000&color=8A2BE2&weight=600"
+    alt="Typing SVG"
+  />
+
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_To_Work-YES-8A2BE2?style=for-the-badge" alt="Open to work" />
 </p>
 
+---
+
 ## 🚀 About Me
 
 <p align="center">
-  Passionate <b>Full-Stack Developer</b> with expertise in modern JavaScript frameworks. I craft performant, accessible, and visually stunning web applications with clean code architecture. When I'm not coding, I'm refining UI/UX or ensuring quality through automated testing.
+  Passionate <strong>Full‑Stack Developer</strong> specializing in modern JavaScript frameworks and MERN‑stack applications. I build fast, scalable, and user‑centric web experiences with clean architecture, responsive UI, and automated testing. I also enjoy optimizing UX and verifying quality through tools like Postman and Cypress.
 </p>
-<p align="center" font-wight="bolder">immobarokali2001@gmail.com</p>
+
+<p align="center">
+  <strong>immobarokali2001@gmail.com</strong>
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=immobarok&show_icons=true&theme=transparent&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immobarok&layout=compact&theme=transparent&title_color=8A2BE2&text_color=ffffff&hide_border=true" width="42%" />
@@ -24,6 +39,7 @@
 ## 💻 Technical Arsenal
 
 ### 🛠️ Programming Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -34,6 +50,7 @@
 </p>
 
 ### 🌐 Frontend & Backend
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -44,6 +61,7 @@
 </p>
 
 ### 🧪 SQA & Dev Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -54,7 +72,8 @@
 
 ---
 
-## 📊 My GitHub Activity
+## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=immobarok&theme=transparent&stroke=8A2BE2&fire=8A2BE2&ring=8A2BE2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=8A2BE2" alt="GitHub Streak" />
 </p>
@@ -82,5 +101,5 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=8A2BE2&style=flat-square" alt="immobarok" /> 
+  <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=8A2BE2&style=flat-square" alt="Profile views" />
 </div>
