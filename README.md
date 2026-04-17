@@ -1,105 +1,149 @@
 <div align="center">
+  
+  <!-- Animated Name with Gradient -->
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mobarok+Ali;Full-Stack+Developer;MERN+Specialist;UI%2FUX+Enthusiast;SQA+Engineer" alt="Typing SVG" />
+    </a>
+  </h1>
 
-👋 Hi, I'm **Mobarok Ali**
+  <!-- Animated Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Building+Digital+Experiences;Crafting+Clean+Code;Ensuring+Quality" alt="Typing Subtitle" />
 
+  <br/><br/>
+
+  <!-- Animated Wave Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  
+  <br/><br/>
+
+  <!-- Status Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-8A2BE2?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/Location-Bangladesh-8A2BE2?style=for-the-badge" alt="Location" />
+  </p>
+
+</div>
+
+<br/>
+
+<!-- About Section with Better Layout -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+    About Me
+  </h2>
 </div>
 
 <div align="center">
-
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;React+Specialist;UI/UX+Enthusiast;SQA+Engineer&center=true&width=500&height=50&duration=3000&pause=1000&color=8A2BE2&weight=600"
-    alt="Typing SVG"
-  />
-
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_To_Work-YES-8A2BE2?style=for-the-badge" alt="Open to work" />
-</p>
+<br/>
 
----
-
-## 🚀 About Me
-
-<p align="center">
-  Passionate <strong>Full‑Stack Developer</strong> specializing in modern JavaScript frameworks and MERN‑stack applications. I build fast, scalable, and user‑centric web experiences with clean architecture, responsive UI, and automated testing. I also enjoy optimizing UX and verifying quality through tools like Postman and Cypress.
-</p>
-
-<p align="center">
-  <strong>immobarokali2001@gmail.com</strong>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immobarok&show_icons=true&theme=transparent&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immobarok&layout=compact&theme=transparent&title_color=8A2BE2&text_color=ffffff&hide_border=true" width="42%" />
-</div>
-
----
-
-## 💻 Technical Arsenal
-
-### 🛠️ Programming Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### 🌐 Frontend & Backend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🧪 SQA & Dev Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immobarok&theme=transparent&stroke=8A2BE2&fire=8A2BE2&ring=8A2BE2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=8A2BE2" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immobarok&bg_color=1A1B27&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-## 📫 Let's Connect
-
+const mobarok = {
+  name: "Mobarok Ali",
+  role: "Full-Stack Developer",
+  location: "Bangladesh",
+  email: "immobarokali2001@gmail.com",
+  
+  expertise: ["React.js", "Next.js", "Node.js", "Express", "MongoDB"],
+  passion: "Building scalable web applications with exceptional user experiences",
+  
+  currentFocus: "Advanced React Patterns & System Design",
+  learning: "TypeScript, Cloud Architecture, DevOps",
+  
+  funFact: "I debug with console.log and I'm not ashamed! ☕"
+};
+<br/><br/>
 <div align="center">
   <a href="mailto:immobarokali2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/mobarok-ali-b9284824b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>
   </a>
 </div>
-
-<br />
-
+<br/>
+<!-- Tech Stack with Animated Icons -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=8A2BE2&style=flat-square" alt="Profile views" />
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+    Tech Arsenal
+  </h2>
 </div>
+🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css,redux&perline=8" />
+</p>
+⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=8" />
+</p>
+🧪 SQA & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,git,github,figma,vscode&perline=8" />
+</p>
+💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&perline=8" />
+</p>
+<br/>
+<!-- GitHub Stats with Animations -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+    GitHub Analytics
+  </h2>
+</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=immobarok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immobarok&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" width="40%" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immobarok&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=FF69B4&currStreakLabel=8A2BE2" width="90%" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immobarok&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+</p>
+<!-- GitHub Trophies -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25">
+    GitHub Trophies
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=immobarok&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies" />
+</div>
+<br/>
+<!-- Dynamic Quote -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="25">
+    Daily Inspiration
+  </h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.&author=Cory+House" alt="Dev Quote" />
+</div>
+<br/>
+<!-- Snake Animation -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25">
+    Contribution Snake
+  </h2>
+https://github.com/immobarok/immobarok/blob/output/github-contribution-grid-snake.svg
+</div>
+<br/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=80"/>
+</div>
+<div align="center">
+  <b>Made with ❤️ by Mobarok Ali</b>
+</div>
+```
