@@ -1,37 +1,37 @@
 <div align="center">
   
-  <!-- Animated Name with Gradient -->
+  <!-- Animated Name with Dark Orange -->
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mobarok+Ali;Full-Stack+Developer;MERN+Specialist;UI%2FUX+Enthusiast;SQA+Engineer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&color=FF6B35&lines=Hi+There!+%F0%9F%91%8B;I'm+Mobarok+Ali;Full-Stack+Developer;MERN+Specialist;UI%2FUX+Enthusiast;SQA+Engineer" alt="Typing SVG" />
     </a>
   </h1>
 
   <!-- Animated Subtitle -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Building+Digital+Experiences;Crafting+Clean+Code;Ensuring+Quality" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=435&lines=Building+Digital+Experiences;Crafting+Clean+Code;Ensuring+Quality" alt="Typing Subtitle" />
 
   <br/><br/>
 
-  <!-- Animated Wave Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <!-- Animated Wave Banner - Dark Orange -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&text=&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=FF6B35&style=for-the-badge" alt="Profile Views" />
   
   <br/><br/>
 
-  <!-- Status Badges -->
+  <!-- Status Badges - Dark Orange Theme -->
   <p>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-8A2BE2?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF6B35?style=for-the-badge" alt="Focus" />
     <img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge" alt="Open to Work" />
-    <img src="https://img.shields.io/badge/Location-Bangladesh-8A2BE2?style=for-the-badge" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Bangladesh-FF6B35?style=for-the-badge" alt="Location" />
   </p>
 
 </div>
 
 <br/>
 
-<!-- About Section with Better Layout -->
+<!-- About Section -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
@@ -45,6 +45,7 @@
 
 <br/>
 
+```javascript
 const mobarok = {
   name: "Mobarok Ali",
   role: "Full-Stack Developer",
@@ -72,7 +73,7 @@ const mobarok = {
   </a>
 </div>
 <br/>
-<!-- Tech Stack with Animated Icons -->
+<!-- Tech Stack -->
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
@@ -81,22 +82,22 @@ const mobarok = {
 </div>
 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css,redux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css,redux&perline=8&theme=dark" />
 </p>
 ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=8&theme=dark" />
 </p>
 🧪 SQA & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,figma,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,figma,vscode&perline=8&theme=dark" />
 </p>
 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&perline=8&theme=dark" />
 </p>
 <br/>
-<!-- GitHub Stats with Animations -->
+<!-- GitHub Stats - Dark Orange Theme -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
@@ -104,14 +105,14 @@ const mobarok = {
   </h2>
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immobarok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immobarok&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=immobarok&show_icons=true&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immobarok&layout=compact&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" width="40%" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immobarok&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=FF69B4&currStreakLabel=8A2BE2" width="90%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immobarok&theme=dark&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=E65100&currStreakLabel=FF6B35" width="90%" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immobarok&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immobarok&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
 <!-- GitHub Trophies -->
 <div align="center">
@@ -119,7 +120,7 @@ const mobarok = {
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25">
     GitHub Trophies
   </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=immobarok&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=immobarok&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies" />
 </div>
 <br/>
 <!-- Dynamic Quote -->
@@ -128,7 +129,7 @@ const mobarok = {
     <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="25">
     Daily Inspiration
   </h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.&author=Cory+House" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=great_gatsby&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.&author=Cory+House" alt="Dev Quote" />
 </div>
 <br/>
 <!-- Snake Animation -->
@@ -137,11 +138,12 @@ const mobarok = {
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25">
     Contribution Snake
   </h2>
-https://github.com/immobarok/immobarok/blob/output/github-contribution-grid-snake.svg
+https://github.com/immobarok/immobarok/blob/output/github-contribution-grid-snake-dark.svg
 </div>
 <br/>
+<!-- Footer Wave - Dark Orange -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=80"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=80"/>
 </div>
 <div align="center">
   <b>Made with ❤️ by Mobarok Ali</b>
