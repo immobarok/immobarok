@@ -13,7 +13,7 @@
 <p align="center">
   Passionate <b>Full-Stack Developer</b> with expertise in modern JavaScript frameworks. I craft performant, accessible, and visually stunning web applications with clean code architecture. When I'm not coding, I'm refining UI/UX or ensuring quality through automated testing.
 </p>
-<p>immobarokali2001@gmail.com</p>
+<p align="center" font-wight="bolder">immobarokali2001@gmail.com</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=immobarok&show_icons=true&theme=transparent&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immobarok&layout=compact&theme=transparent&title_color=8A2BE2&text_color=ffffff&hide_border=true" width="42%" />
