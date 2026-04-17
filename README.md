@@ -1,26 +1,21 @@
 <div align="center">
   
-  <!-- Animated Name with Dark Orange -->
   <h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&color=FF6B35&lines=Hi+There!+%F0%9F%91%8B;I'm+Mobarok+Ali;Full-Stack+Developer;MERN+Specialist;UI%2FUX+Enthusiast;SQA+Engineer" alt="Typing SVG" />
     </a>
   </h1>
 
-  <!-- Animated Subtitle -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=435&lines=Building+Digital+Experiences;Crafting+Clean+Code;Ensuring+Quality" alt="Typing Subtitle" />
 
   <br/><br/>
 
-  <!-- Animated Wave Banner - Dark Orange -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&text=&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=FF6B35&style=for-the-badge" alt="Profile Views" />
   
   <br/><br/>
 
-  <!-- Status Badges - Dark Orange Theme -->
   <p>
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF6B35?style=for-the-badge" alt="Focus" />
     <img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge" alt="Open to Work" />
@@ -31,7 +26,6 @@
 
 <br/>
 
-<!-- About Section -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
@@ -45,19 +39,49 @@
 
 <br/>
 
-const mobarok = {
+typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  email: string;
+  focus: string[];
+  architecture: string[];
+  testing: string[];
+  currentStack: string[];
+}
+
+const mobarok: Developer = {
   name: "Mobarok Ali",
-  role: "Full-Stack Developer",
+  role: "Full-Stack Engineer",
   location: "Bangladesh",
   email: "immobarokali2001@gmail.com",
   
-  expertise: ["React.js", "Next.js", "Node.js", "Express", "MongoDB"],
-  passion: "Building scalable web applications with exceptional user experiences",
+  focus: [
+    "Scalable Web Architecture",
+    "Component-Driven UI Systems", 
+    "API Design & Development",
+    "Quality Assurance Automation"
+  ],
   
-  currentFocus: "Advanced React Patterns & System Design",
-  learning: "TypeScript, Cloud Architecture, DevOps",
+  architecture: [
+    "Microservices",
+    "RESTful APIs",
+    "Server-Side Rendering",
+    "Client-State Management"
+  ],
   
-  funFact: "I debug with console.log and I'm not ashamed! ☕"
+  testing: [
+    "End-to-End Testing (Cypress)",
+    "API Testing (Postman/Newman)",
+    "Automation Frameworks"
+  ],
+  
+  currentStack: [
+    "React.js", "Next.js", "TypeScript",
+    "Node.js", "Express", "MongoDB",
+    "Tailwind CSS", "Redux Toolkit"
+  ]
 };
 <br/><br/>
 <div align="center">
@@ -72,31 +96,29 @@ const mobarok = {
   </a>
 </div>
 <br/>
-<!-- Tech Stack -->
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-    Tech Arsenal
+    Technical Expertise
   </h2>
 </div>
-🎨 Frontend
+Frontend Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css,redux&perline=8&theme=dark" />
 </p>
-⚙️ Backend & Database
+Backend & Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=8&theme=dark" />
 </p>
-🧪 SQA & DevOps
+Quality Assurance & Tooling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,git,github,figma,vscode&perline=8&theme=dark" />
 </p>
-💻 Programming Languages
+Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&perline=8&theme=dark" />
 </p>
 <br/>
-<!-- GitHub Stats - Dark Orange Theme -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
@@ -113,37 +135,25 @@ const mobarok = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=immobarok&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
-<!-- GitHub Trophies -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25">
     GitHub Trophies
   </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=immobarok&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=immobarok&theme=radical&no-frame=true&margin-w=4&row=1" width="100%" alt="Trophies" />
 </div>
 <br/>
-<!-- Dynamic Quote -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="25">
-    Daily Inspiration
-  </h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=great_gatsby&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.&author=Cory+House" alt="Dev Quote" />
-</div>
-<br/>
-<!-- Snake Animation -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25">
-    Contribution Snake
+    Contribution Activity
   </h2>
 https://github.com/immobarok/immobarok/blob/output/github-contribution-grid-snake-dark.svg
 </div>
 <br/>
-<!-- Footer Wave - Dark Orange -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=80"/>
 </div>
 <div align="center">
-  <b>Made with ❤️ by Mobarok Ali</b>
+  <b>Designed & Built by Mobarok Ali</b>
 </div>
