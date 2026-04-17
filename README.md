@@ -45,7 +45,6 @@
 
 <br/>
 
-```javascript
 const mobarok = {
   name: "Mobarok Ali",
   role: "Full-Stack Developer",
@@ -148,4 +147,3 @@ https://github.com/immobarok/immobarok/blob/output/github-contribution-grid-snak
 <div align="center">
   <b>Made with ❤️ by Mobarok Ali</b>
 </div>
-```
