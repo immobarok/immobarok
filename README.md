@@ -20,6 +20,73 @@
 </div>
 
 <br/>
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌐 Production Applications
+
+<a href="https://www.gridconnect.app">
+  <img src="https://img.shields.io/badge/GridConnect-Full--Stack-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.allurdevine.net">
+  <img src="https://img.shields.io/badge/Allur_Devine-Full--Stack-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.bibidi.ca">
+  <img src="https://img.shields.io/badge/Bibidi-Full--Stack-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.primepepsynth.com">
+  <img src="https://img.shields.io/badge/PrimePepsynth-Frontend-FF6B35?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+<a href="https://www.stellarus.ai">
+  <img src="https://img.shields.io/badge/Stellarus_AI-Frontend-FF6B35?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 🎨 Frontend Showcase
+
+<a href="https://dronex-iota.vercel.app">
+  <img src="https://img.shields.io/badge/DroneX-Frontend-0D1117?style=for-the-badge&logo=react" />
+</a>
+
+<a href="https://kauka.vercel.app">
+  <img src="https://img.shields.io/badge/Kauka-Frontend-0D1117?style=for-the-badge&logo=react" />
+</a>
+
+<a href="https://kikiolaakanbi-nextjs-night.vercel.app">
+  <img src="https://img.shields.io/badge/Kiki_Ola_Akanbi-Frontend-0D1117?style=for-the-badge&logo=nextdotjs" />
+</a>
+
+<a href="https://cinebook-iota.vercel.app">
+  <img src="https://img.shields.io/badge/CineBook-Frontend-0D1117?style=for-the-badge&logo=react" />
+</a>
+
+<a href="https://luxora-ashy.vercel.app">
+  <img src="https://img.shields.io/badge/Luxora-Frontend-0D1117?style=for-the-badge&logo=react" />
+</a>
+
+<a href="https://swapinde.vercel.app">
+  <img src="https://img.shields.io/badge/Swapinde-Frontend-0D1117?style=for-the-badge&logo=react" />
+</a>
+
+<a href="https://xceleride.netlify.app">
+  <img src="https://img.shields.io/badge/XceleRide-MERN-0D1117?style=for-the-badge&logo=mongodb" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+💼 Built and deployed multiple production-grade applications for real clients and businesses.
+
+</div>
 
 ## &#128104;&#8205;&#128187; About Me
 
@@ -63,6 +130,7 @@ Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&perline=8&theme=dark" />
 </p>
+
 📈 GitHub Activity
 <div align="center">
   <!-- Compact Stats - Reduced API load to prevent 503s -->
