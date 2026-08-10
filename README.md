@@ -78,7 +78,7 @@ const mobarok = {
 ## 🚀 Featured Projects & Portfolio
 
 <div align="center">
-  <a href="YOUR_PERSONAL_WEBSITE_LINK_HERE">
+  <a href="www.mobarok.me">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Personal_Website-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
   </a>
 </div>
