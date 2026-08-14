@@ -90,10 +90,12 @@ const mobarok = {
 
 | Project Name | Domain / Link | Focus |
 | :--- | :--- | :--- |
+| **🛍️ Bibidi** | [www.bibidi.ca](https://www.bibidi.ca) | Full-Stack Application |
 | **🏎️ Grid Connect** | [www.gridconnect.app](https://www.gridconnect.app) | Full-Stack / Racing Platform |
+| 🛁 Infinito Italian Atelier | infinito-italian-atelier.com | E-Commerce / Full-Stack Application |
 | **🤖 Stellarus AI** | [www.stellarus.ai](https://www.stellarus.ai) | AI Intelligence Platform |
 | **✨ Allur Devine** | [www.allurdevine.net](https://www.allurdevine.net) | Full-Stack Application |
-| **🛍️ Bibidi** | [www.bibidi.ca](https://www.bibidi.ca) | Full-Stack Application |
+
 | **🧬 Prime Pep Synth** | [www.primepepsynth.com](https://www.primepepsynth.com) | Full-Stack Application |
 
 </div>
