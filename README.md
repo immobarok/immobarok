@@ -92,7 +92,7 @@ const mobarok = {
 | :--- | :--- | :--- |
 | **🛍️ Bibidi** | [www.bibidi.ca](https://www.bibidi.ca) | Full-Stack Application |
 | **🏎️ Grid Connect** | [www.gridconnect.app](https://www.gridconnect.app) | Full-Stack / Racing Platform |
-| 🛁 Infinito Italian Atelier | infinito-italian-atelier.com | E-Commerce / Full-Stack Application |
+| 🛁 Infinito Italian Atelier | [www.infinito-italian-atelier.com](https://infinito-italian-atelier.com/en/shop) | E-Commerce / Full-Stack Application |
 | **🤖 Stellarus AI** | [www.stellarus.ai](https://www.stellarus.ai) | AI Intelligence Platform |
 | **✨ Allur Devine** | [www.allurdevine.net](https://www.allurdevine.net) | Full-Stack Application |
 
