@@ -7,7 +7,16 @@
   </h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=E65100&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Crafting+clean%2C+maintainable+code;Driving+quality+through+automation" />
-  
+
+  <br/><br/>
+
+  <!-- gh-ascii profile card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="immobarok's GitHub profile ASCII card" src="dark_mode.svg" width="100%" />
+  </picture>
+
   <br/><br/>
   
   <img src="https://komarev.com/ghpvc/?username=immobarok&label=Profile%20views&color=FF6B35&style=for-the-badge" alt="Profile Views" />
