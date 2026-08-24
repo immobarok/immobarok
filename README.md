@@ -128,26 +128,6 @@ const mobarok = {
 
 <br/>
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immobarok&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF&hide=issues,contribs&card_width=400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immobarok&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&card_width=320" width="42%" />
-<br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immobarok&theme=dark&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=E65100&currStreakLabel=FF6B35" width="88%" />
-</div>
-
-<div align="center">
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Contributions-Public-FF6B35?style=flat-square" />
-    <img src="https://img.shields.io/badge/Repos-Public-FF6B35?style=flat-square" />
-    <img src="https://img.shields.io/badge/Open%20Source-Active-success?style=flat-square" />
-  </p>
-</div>
-
-<br/>
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
