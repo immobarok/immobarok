@@ -62,24 +62,24 @@ const mobarok = {
 
 ## ⚙️ Technical Expertise
 
-**Frontend Engineering**
+**Frontend Engineering & Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css,redux&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,typescript,javascript,html,css,redux&perline=9&theme=dark" />
 </p>
 
 **Backend & Database**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,mongodb,postgres,redis,mysql,firebase&perline=9&theme=dark" />
 </p>
 
 **Quality Assurance & DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,figma,vscode&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,git,github,figma,vscode&perline=8&theme=dark" />
 </p>
 
 **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python,php&perline=8&theme=dark" />
 </p>
 
 <br/>
