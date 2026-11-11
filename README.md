@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header"/>
   
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&color=FF6B35&lines=Hi+There!+%F0%9F%91%8B;I'm+Mobarok+Ali;Full-Stack+Developer;MERN+Specialist;SQA+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&color=FF6B35&lines=Hi+There!+%F0%9F%91%8B;I'm+Mobarok+Ali;Full-Stack+Developer;MERN+Specialist;Go Developer;SQA+Engineer" alt="Typing SVG" />
   </h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=E65100&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Crafting+clean%2C+maintainable+code;Driving+quality+through+automation" />
@@ -41,8 +41,8 @@
 const mobarok = {
   name: "Mobarok Ali",
   role: "Full-Stack Engineer",
-  stack: ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
-  focus: ["MERN Stack", "Cypress", "Postman"]
+  stack: ["React", "Next.js", "Node.js","Express","Nest.js","Go","postgreSql", "MongoDB", "TypeScript"],
+  focus: ["Cloud-Native Architectures", "Container Orchestration", "Automation", "Scalable Microservices"]
 };
 ```
 
